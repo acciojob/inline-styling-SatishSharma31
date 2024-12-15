@@ -1,4 +1,4 @@
 /*  your css code here. If applicable */
 body{ background-color:yellow; text-align:center;}
-h1#f1 img { width:400px; height:400px;}
-h1#f2 { margin:0;}
+#f1 img { width:400px; height:400px;}
+#f2 { margin:0;}
